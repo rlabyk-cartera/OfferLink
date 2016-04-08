@@ -1,2 +1,2 @@
 # OfferLink
-Repository for new automation project OfferLink
+Repository for new automation project OfferLink.
